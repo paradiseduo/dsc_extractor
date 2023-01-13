@@ -1,5 +1,6 @@
 # dsc_extractor
 
+cover ipsw file to symbol
 
 ```bash
 ❯ clang ext.c -o ext
