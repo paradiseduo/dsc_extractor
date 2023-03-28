@@ -9,4 +9,6 @@ cover ipsw file to symbol
 
 You can download ipsw file at [appledb](https://github.com/littlebyteorg/appledb)
 
+You can download ipsw file at [ipsw.me](https://ipsw.me/)
+
 从系统镜像文件中提取符号表
